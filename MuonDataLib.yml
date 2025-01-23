@@ -12,7 +12,7 @@ dependencies:
   - pip
   - sphinx
   - jupyter-book
-    nbsphinx
+  - nbsphinx
   - pip:
     - readthedocs-sphinx-ext
 
