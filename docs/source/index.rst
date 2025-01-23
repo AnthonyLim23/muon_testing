@@ -13,11 +13,11 @@ Contents
    :maxdepth: 2
    :titlesonly:
 
-   Introduction <intro>
-   Examples2 <examples/index>
-   Developer docs <dev/index>
-   loaders
-   api
+       Introduction <intro>
+       Examples2 <examples/index>
+       Developer docs <dev/index>
+       loaders
+       api
 
 Indices and tables
 ==================
