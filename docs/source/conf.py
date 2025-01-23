@@ -13,8 +13,8 @@ sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 project = 'muonDataLib'
 copyright = '2024, Anthony Lim'
 author = 'Anthony Lim'
-release = '0.1.0'
-
+release = '0.1'
+version = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
