@@ -14,10 +14,10 @@ Contents
    :titlesonly:
 
    Introduction <intro>
-   Examples <examples/index>
    Developer docs <dev/index>
    api
    loaders
+   Examples <examples/index>
 
 Indices and tables
 ==================
