@@ -9,6 +9,12 @@ package-dir = {"" = "src"}
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[project.optional-dependencies]
+docs = ["sphinx==7.3.7",
+	'jupyter-book',
+        "nbsphinx==0.9.4"]
+
+
 [project]
 name = 'MuonDataLib'
 version = "0.9.0b2"
