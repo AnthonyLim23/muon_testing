@@ -14,7 +14,9 @@ Contents
    :titlesonly:
 
    Introduction <intro>
-   Examples <examples/index>
+   Examples <examples/muon.ipynb>
+   Examples2 <examples/index>
+
    Developer docs <dev/index>
    loaders
    api
