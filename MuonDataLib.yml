@@ -1,0 +1,13 @@
+name: muonDataLib-dev
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python =3.11.*
+  - numpy
+  - plotly
+  - pytest
+  - pre-commit
+  - pip
+
