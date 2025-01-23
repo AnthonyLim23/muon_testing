@@ -15,4 +15,3 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   muon.ipynb
