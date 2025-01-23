@@ -10,4 +10,9 @@ dependencies:
   - pytest
   - pre-commit
   - pip
+  - sphinx
+  - jupyter-book
+    nbsphinx
+  - pip:
+    - readthedocs-sphinx-ext
 
