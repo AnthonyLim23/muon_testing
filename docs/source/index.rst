@@ -22,7 +22,6 @@ Contents
    Bayesian methods comparison <cf/index>
    Examples <examples/index>
    Developer docs <dev/index>
-   api
 
 
 Indices and tables
