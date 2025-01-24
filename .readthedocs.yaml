@@ -14,7 +14,7 @@ build:
 
 
 conda:
-  environment: MuonDataLib.yml
+  environment: quickBayes-dev.yml
 
 
 python:
