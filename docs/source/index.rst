@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to quickBayes's documentation!
-======================================
+Welcome to MuonDataLib's documentation!
+=======================================
 
 Contents
 --------
@@ -13,13 +13,8 @@ Contents
    :maxdepth: 2
    :titlesonly:
 
-   Welcome to quickBayes <intro>
-   Introduction <introduction>
-   History <history>
+   Introduction <intro>
    Installation and support <install>
-   Bayesian Theory <maths>
-   Theory of quickBayes <theory>
-   Bayesian methods comparison <cf/index>
    Examples <examples/index>
    Developer docs <dev/index>
 
