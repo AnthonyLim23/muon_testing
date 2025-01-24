@@ -1,0 +1,17 @@
+name: muonDataLib-dev
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python =3.11.*
+  - numpy
+  - Cython
+  - pytest
+  - pre-commit >=2.15
+  - plotly
+  - sphinx
+  - jupyter-book
+  - nbsphinx
+  - pip:
+    - readthedocs-sphinx-ext
