@@ -8,6 +8,7 @@
 import pathlib
 import sys
 
+nbsphinx_execute = 'always'
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 project = 'muonDataLib'

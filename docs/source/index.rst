@@ -17,7 +17,7 @@ Contents
    Developer docs <dev/index>
    api
    loaders
-   muon
+   muon.ipynb
 
 Indices and tables
 ==================
