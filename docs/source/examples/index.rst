@@ -16,5 +16,3 @@ Contents
    :caption: Contents:
 
    muon.ipynb
-   QENS.ipynb
-   sin_wave.ipynb
