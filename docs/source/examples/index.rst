@@ -16,3 +16,4 @@ Contents
    :caption: Contents:
 
    muon.ipynb
+   tutorial_1.ipynb
