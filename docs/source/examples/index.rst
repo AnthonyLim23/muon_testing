@@ -17,3 +17,4 @@ Contents
 
    muon.ipynb
    tutorials/tutorial_1.ipynb
+   tutorials/tutorial_2.ipynb
