@@ -16,6 +16,7 @@ Contents
    :caption: Contents:
 
    muon.ipynb
+   Introduction to Tutorials <intro.rst>
    tutorials/tutorial_1.ipynb
    tutorials/tutorial_2.ipynb
    tutorials/tutorial_3.ipynb
